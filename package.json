@@ -1,0 +1,16 @@
+{
+  "name": "backend_series_chai",
+  "version": "1.0.0",
+  "description": "a new series of backend with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "chai"
+  ],
+  "author": "Tanya Gupta",
+  "license": "ISC"
+}
